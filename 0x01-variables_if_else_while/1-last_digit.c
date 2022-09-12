@@ -3,7 +3,6 @@
 #include <stdio.h>
 
 /**
- *
  *  main - prints the last digit of randomly generated
  *	and whether it is <5, >6 or 0
  *
