@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /*
- * main - prints all the single digit numbers of base 10starting from 0
+ * main - Entry point
+ *
+ * Description - prints all the single digit numbers of base 10starting from 0
  *
  * Return: Always 0.
  */
