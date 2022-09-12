@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * Main - this program assigns a random number to n each time it is executed
+ * main - this program assigns a random number to n each time it is executed
  *	and states whether it is positive or negative
  *
  *Return: Always 0.
