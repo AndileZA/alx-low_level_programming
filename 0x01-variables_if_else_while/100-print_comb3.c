@@ -2,7 +2,7 @@
 
 /**
  * main - prints all the possible combinations of two different digits
- * 	in acsending order, seperated by a comma followed by a space
+ *	in acsending order, seperated by a comma followed by a space
  *
  * Return: Always 0.
  */
@@ -17,7 +17,7 @@ int main(void)
 			putchar((digit1 % 10) + '0');
 			putchar((digit2 % 10) + '0');
 
-			if (digit1 == 8 && digit2 ==9)
+			if (digit1 == 8 && digit2 == 9)
 				continue;
 
 			putchar(',');
