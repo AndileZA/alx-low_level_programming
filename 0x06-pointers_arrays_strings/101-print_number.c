@@ -2,6 +2,8 @@
 
 void print_number(int n)
 {
+
+    unsigned int num = n;
     // If number is smaller than 0, put a - sign
     // and change number to positive
     if (n < 0) {
